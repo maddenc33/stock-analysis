@@ -50,11 +50,15 @@ I then outputed the desired values to the All Stocks Analysis worksheet using th
 Below are screenshots highlighting performance.
 
 Before:
+
 ![2017 Before Refactor](https://github.com/maddenc33/stock-analysis/blob/main/Resources/yearValueAnalysis%202017.png?raw=true)
+
 ![2018 Before Refactor](https://github.com/maddenc33/stock-analysis/blob/main/Resources/yearValueAnalysis%202018.png?raw=true)
 
 After:
+
 ![2017 After Refactor](https://github.com/maddenc33/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true)
+
 ![2018 After Refactor](https://github.com/maddenc33/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true)
 
 ## Results
