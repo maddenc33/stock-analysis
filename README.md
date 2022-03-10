@@ -44,7 +44,7 @@ I then outputed the desired values to the All Stocks Analysis worksheet using th
      	Cells(dataRowStart + i, 3).Value = (tickerEndingPrices(i) / tickerStartingPrices(i)) - 1
         
  Next i
-``
+```
 
 ### Analysis of Performance
 Below are screenshots highlighting performance.
